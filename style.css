@@ -104,7 +104,7 @@ hr {
 /* Menu */
 
 #menu {
-	float: center;
+	float: middle;
 	width: 620px;
 	height: 50px;
 }
@@ -400,6 +400,7 @@ hr {
 #footer a {
 	color: #6C6A69;
 }
+
 
 
 
