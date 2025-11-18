@@ -100,8 +100,8 @@ hr {
 /* Menu */
 
 #menu {
-	float: right;
-	width: 620px;
+	float: left;
+	width: 960px;
 	height: 50px;
 }
 
@@ -110,8 +110,8 @@ hr {
 	padding: 0px;
 	list-style: none;
 	line-height: normal;
-	font-size: 14px;
-	color: #ff0000;
+	font-size: 16px;
+	color: #ffeeee;
 }
 
 #menu li {
@@ -394,6 +394,7 @@ hr {
 #footer a {
 	color: #6C6A69;
 }
+
 
 
 
