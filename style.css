@@ -100,7 +100,7 @@ hr {
 /* Menu */
 
 #menu {
-	float: middle;
+	float: right;
 	width: 620px;
 	height: 50px;
 }
@@ -116,7 +116,7 @@ hr {
 
 #menu li {
 	display: block;
-	float: center;
+	float: left;
 }
 	
 #menu a {
@@ -394,6 +394,7 @@ hr {
 #footer a {
 	color: #6C6A69;
 }
+
 
 
 
