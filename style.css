@@ -53,7 +53,7 @@ a:hover {
 a img {
 	border: none;
 }
-	/*
+	
 img.left {
 	float: left;
 	margin: 7px 30px 0 0;
@@ -83,7 +83,7 @@ hr {
 .list1 li.alt img {
 	margin-right: 0;
 }
-	*/
+	
 #wrapper {
 }
 
@@ -124,7 +124,7 @@ hr {
 	display: block;
 	float: center;
 }
-	/*
+	
 #menu a {
 	display: block;
 	float: left;
@@ -137,7 +137,7 @@ hr {
 	font-size: 12px;
 	color: #ff0000;
 }
-	*/
+
 #menu a:hover {
 	text-decoration: underline;
 	color: #FFFFFF;
@@ -400,5 +400,6 @@ hr {
 #footer a {
 	color: #6C6A69;
 }
+
 
 
