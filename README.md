@@ -1,5 +1,5 @@
 # thesocialsolipsist.github.io | thesocialsolipsist.com
-##This Website is created as the official site for the content creator The Social Solipsist.
+## This Website is created as the official site for the content creator The Social Solipsist.
 
 All names, brandig, assets, art, and written content are exclusive copyright of The Social Solipsist ©
 
